@@ -1,6 +1,6 @@
 ## :closed_lock_with_key::busts_in_silhouette: 一个简洁优美的权限管理系统
 
-### 项目简洁
+### 项目简介
 *:sparkles: 如你所见 : 这或许是流程最清晰、代码最干净、注释最详细、配置最简单的 Shiro 项目啦 ! 非常适合进阶学习 SpringBoot 与 Shiro 的同学，是一个非常具有参考与学习价值的权限管理项目啦~*
 
 
